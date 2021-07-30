@@ -11,6 +11,8 @@ The user can then access the webpage, upload their images and check for the resu
 
 Demo Video link -> https://drive.google.com/drive/folders/14YzBsrzW0Fun7THJ6biZuTdJZU7jeotV?usp=sharing
 
+ZIP FILE -> https://drive.google.com/drive/folders/1blfvXBdeiimOzVnbJa868C7YstoNNyXD?usp=sharing
+
 Team Members:
 1)  Manin Thomas T.A (19BEC10026)
 2) S Abinesh Vel (18BEC1340)
