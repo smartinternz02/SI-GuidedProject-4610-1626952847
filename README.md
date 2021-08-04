@@ -13,6 +13,8 @@ Demo Video link -> https://drive.google.com/drive/folders/14YzBsrzW0Fun7THJ6biZu
 
 ZIP FILE -> https://drive.google.com/drive/folders/1blfvXBdeiimOzVnbJa868C7YstoNNyXD?usp=sharing
 
+Self Feedback file -> https://drive.google.com/file/d/1-t2y0F8b51Awxa8xTGdPLWZaswFtHEJA/view?usp=sharing
+
 Team Members:
 1)  Manin Thomas T.A (19BEC10026)
 2) S Abinesh Vel (18BEC1340)
